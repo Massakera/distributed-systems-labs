@@ -20,8 +20,9 @@ This project implements a simple MapReduce system in Go using the net/rpc packag
 ```bash
 git clone https://github.com/YourUsername/MapReduce.git
 ```
-2. Start the coordinator 
+2. Change of directory and start the coordinator 
 ```bash
+cd MapReduce
 go run coordinator.go
 ```
 
