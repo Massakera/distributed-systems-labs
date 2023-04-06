@@ -18,7 +18,7 @@ This project implements a simple MapReduce system in Go using the net/rpc packag
 
 1. Clone the repository.
 ```bash
-git clone https://github.com/YourUsername/MapReduce.git
+git clone https://github.com/Massakera/distributed-systems-go.git
 ```
 2. Change of directory and start the coordinator 
 ```bash
