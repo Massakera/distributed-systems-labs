@@ -8,7 +8,7 @@ import (
 	"net/rpc"
 	"sync"
 	"time"
-	"github.com/Massakera/MapReduce/mapreduce" // Replace with your actual GitHub username
+	"github.com/Massakera/MapReduce/mapreduce"
 )
 
 type CoordinatorServer struct {
